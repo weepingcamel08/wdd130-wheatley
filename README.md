@@ -7,7 +7,7 @@ https://weepingcamel08.github.io/wdd130-wheatley/
 ## Dev Team
 | Role | Name | Page |
 | ---- | ---- | ---- |
-| Client | Scott Wheatley | - |
+| Client | Scott Wheatley | — |
 | Lead Developer | Cathy Bisschoff | index.html (Home) |
 | Junior Developer | Russel Anderson | To be assigned |
 | Junior Developer | Michael Winn | To be assigned |
