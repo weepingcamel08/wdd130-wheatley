@@ -9,8 +9,17 @@ https://weepingcamel08.github.io/wdd130-wheatley/
 | ---- | ---- | ---- |
 | Client | Scott Wheatley | — |
 | Lead Developer | Cathy Bisschoff | index.html (Home) |
-| Junior Developer | Russel Anderson | To be assigned |
-| Junior Developer | Michael Winn | To be assigned |
+| Junior Developer | Russel Anderson | online.html (Sharing the Gospel Online) |
+| Junior Developer | Michael Winn | in-person.html (Sharing the Gospel in Person) |
 
 ## Style Guide
-To be added from Scott's Site Plan.
+| Color | Hex |
+| ----- | --- |
+| Primary | #526B4D |
+| Secondary | #E8D9B9 |
+| Accent 1 | #91A47B |
+| Accent 2 | #D69B48 |
+
+Heading Font: Nunito Sans
+
+Paragraph Font: Lora
